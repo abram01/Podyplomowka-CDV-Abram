@@ -1,0 +1,6 @@
+requests
+matplotlib
+geopy
+tkcalendar
+pytest
+folium
