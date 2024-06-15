@@ -4,3 +4,5 @@ geopy
 tkcalendar
 pytest
 folium
+tkcalendar
+ttkthemes
